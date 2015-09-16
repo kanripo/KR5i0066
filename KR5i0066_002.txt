@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:54:47.632812
+#+DATE: 2015-08-29 17:54:48.004063
 #+PROPERTY: ID KR5i0066
-#+TITLE:仙佛合宗語錄 Xianfo Hezong Yulu
+#+TITLE:仙佛合宗語錄
+#+PROPERTY: pinyin Xianfo Hezong Yulu
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-KZ_KR5i0066_02p001a>¶
@@ -1034,10 +1035,10 @@
 　神且要還于虛無卽有身而還于無身方是還虛合道之至¶
 　妙至妙處何必拘拘以有身爲幸拘于中成之果而非悟性¶
 　之極耶¶
-¶	
-¶	
-¶	
-¶	
+¶
+¶
+¶
+¶
 <pb:CK-KZ_KR5i0066_02p048a>¶
 仙佛合宗語錄¶
 　　伍太一十九問¶
@@ -2012,4 +2013,4 @@
 世牢獄禁之待發落之義也此皆不了生死者如是有志者豈¶
 可誤䧟於不了耶故古云了卽業障本來空未了應須還宿債¶
 有人身者其思之¶
-¶	
+¶
